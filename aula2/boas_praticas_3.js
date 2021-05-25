@@ -9,3 +9,6 @@
 0 === "";       // false
 1 === "1";      // false
 1 === true;     // false
+
+
+// referencia utilizada: https://www.w3schools.com/js/js_best_practices.asp
