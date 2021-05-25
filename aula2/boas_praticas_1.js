@@ -42,3 +42,4 @@ function adicionarItems() {
 function somarItems(){
     
     }
+// referencia utilizada: https://www.w3schools.com/js/js_best_practices.asp
