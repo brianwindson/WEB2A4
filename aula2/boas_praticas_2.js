@@ -13,3 +13,6 @@ var y = new String("palavra");
 var x = "palavra";
 var y = "palavra";
 (x===y) //a comparação agora é possivel
+
+
+// referencia utilizada: https://www.w3schools.com/js/js_best_practices.asp
