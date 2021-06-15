@@ -4,7 +4,7 @@ function Carro(){
 }
 
 function Vectra(){
-    Pessoa.call(this);
+    Carro.call(this);
     this.carroceria;
     this.transmissao;
     this.portas;
